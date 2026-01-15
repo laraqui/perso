@@ -9,4 +9,4 @@ jobs:
         uses: laraqui/perso@main
         with:
           nom: "laraqui"
-          langue: "es"
+          langue: "en"

@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Dire bonjour avec mon action
-        uses: laraqui/actionPersonnalisee@main
+        uses: laraqui/perso@main
         with:
           nom: "laraqui"
           langue: "es"
